@@ -1,5 +1,5 @@
 {
-    "name": "drupal_recipe/ezcontent-blocks-recipe",
+    "name": "abhineshdhiman-srijan/ezcontent-blocks-recipe",
     "description": "Provides Block types for block based features.",
     "type": "drupal-recipe",
     "repositories": [
