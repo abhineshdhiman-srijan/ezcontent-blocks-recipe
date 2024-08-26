@@ -1,0 +1,10 @@
+name: EZContent Block Feature
+description: 'Provides Block types for block based features.'
+install:
+  - color_field:color_field
+  - ezcontent_block
+  - slick_paragraphs:slick_paragraphs
+  - simple_gmap:simple_gmap
+config:
+  import:
+    ezcontent_block: '*'

@@ -1,0 +1,22 @@
+{
+    "name": "drupal_recipe/ezcontent-blocks-recipe",
+    "description": "Provides Block types for block based features.",
+    "type": "drupal-recipe",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        },
+        {
+             "type": "composer",
+             "url": "https://github.com/abhineshdhiman-srijan/ezcontent-block"
+        }
+    ],
+    "require": {
+      "drupal/ezcontent_block": "dev-main",
+      "drupal/color_field": "^3.0",
+      "drupal/slick_paragraphs": "^2.2",
+      "drupal/simple_gmap": "3.1.x-dev@dev"
+    },
+    "license": "GPL-2.0-or-later"
+}
