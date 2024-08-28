@@ -1,5 +1,7 @@
 name: EZContent Block Feature
 description: 'Provides Block types for block based features.'
+recipes:
+  - ezcontent-paragraph-recipe
 install:
   - color_field:color_field
   - ezcontent_block
