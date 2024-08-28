@@ -10,9 +10,26 @@
         {
              "type": "vcs",
              "url": "https://github.com/abhineshdhiman-srijan/ezcontent-block"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/abhineshdhiman-srijan/ezcontent-base-recipe"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/abhineshdhiman-srijan/ezcontent-media-recipe"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/abhineshdhiman-srijan/ezcontent-paragraph-recipe"
+        },
+        {
+          "type": "vcs",
+          "url": "https://github.com/abhineshdhiman-srijan/ezcontent-paragraphs"
         }
     ],
     "require": {
+      "drupal_recipe/ezcontent-paragraph-recipe": "dev-main",
       "drupal/ezcontent_block": "dev-main",
       "drupal/color_field": "^3.0",
       "drupal/slick_paragraphs": "^2.2",
