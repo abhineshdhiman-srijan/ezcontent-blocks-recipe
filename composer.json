@@ -9,5 +9,6 @@
       "drupal/slick_paragraphs": "^2.2",
       "drupal/simple_gmap": "3.1.x-dev@dev"
     },
+    "minimum-stability": "dev",
     "license": "GPL-2.0-or-later"
 }
